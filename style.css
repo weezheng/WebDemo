@@ -1,0 +1,8 @@
+<style>
+    img { height: 50px; background-color:rgb(247, 149, 149);}    
+    body {background-color: rgb(133, 133, 172)}
+    hr {width:5%;height: 1px;color: rgb(211, 220, 226);border-style:none ;border-top: dotted;border-width:9px;}
+    h1 {color: rgb(187, 255, 0);}
+    .photo {height: 100px;background-color: aquamarine;}
+    .contact {height: 30px; background-color: green;}
+</style>
